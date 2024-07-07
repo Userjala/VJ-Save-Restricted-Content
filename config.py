@@ -10,4 +10,4 @@ API_ID = int(os.environ.get("API_ID", "23846467"))
 API_HASH = os.environ.get("API_HASH", "5de58cc497de047ba384c104ffea89a5")
 
 #Database 
-DB_URI = os.environ.get("DB_URI", "mongodb+srv://diduser0109:rhWoplWxlwlNJg8f@cluster0.v3wg2ew.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URI = os.environ.get("DB_URI", "mongodb+srv://diduser0109:RzxyJNqAL7kx48ke@cluster0.pskjv51.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
